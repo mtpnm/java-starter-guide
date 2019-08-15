@@ -1,4 +1,4 @@
-### Install git
+### Install GIT
 Type in `git` in `Terminal` a popup should appear to install xcode development tools, install that.
 
 ### Install a package manager for mac to install Java package
